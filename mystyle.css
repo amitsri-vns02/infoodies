@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    max-width: 80vw;
+
+}
+
+.logoText{
+    font-size: x-large;
+}
+
+.navbar{
+    display: flex;
+    height: 67px;
+}
+
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+    font-weight: 300;
+    cursor: pointer;
+    
+}
+
+.bolder-medium{
+    font-family: 'Tilt Warp', cursive;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.bolder-large{
+    font-family: 'Tilt Warp', cursive;
+    font-size: 77px;
+    font-weight: 100;
+}
+
+.topLeft{
+    width: 50%;
+}
+
+.topLeft h5{
+    width: 21%;
+}
+
+.topLeft h3{
+    width: 20%;
+}
+
+.more-than-faster{
+
+    padding: 5px 0px 5px 8px;
+    background-color: #fcc6ec;
+    border: 2px solid rgb(255, 255, 255);
+    color: rgb(50, 48, 48);
+    border-radius: 10px;
+
+}
+
+.get-started{
+    
+    padding: 10px 22px 10px 22px;
+    background-color: #f2e19e;
+    border: 2px solid rgb(255, 255, 255);
+    color: rgb(50, 48, 48);
+    border-radius: 19px;
+    cursor: pointer;
+    font-size: large;
+
+}
+
+.topLeft-logo
+{
+    width: 220px;
+    padding-left: 108px;
+}
+
+.topRight{
+    width: 50%;
+}
+
+.topRight-logo{
+    padding-bottom: 4px;
+    padding-left: 26px;
+    height: 500px;
+   
+}
+
+.Easy_to_Order{
+    padding: 60px 0px;
+    text-align: center;
+}
+
+.Fastest_Delivery{
+    
+    padding: 60px 0px;
+    text-align: center;
+}
+
+.Best_Quality{
+    padding: 60px 0px;
+    text-align: center;
+}
+
+.row{
+    padding: 30px 0px;
+}
+
+.left_sec4{
+    width: 50%;
+}
+
+.right_sec4{
+    width: 50%;
+} 
+

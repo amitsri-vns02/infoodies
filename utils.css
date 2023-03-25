@@ -1,0 +1,97 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.flex-row{
+    flex-direction: row;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.items-center{
+    align-items: center;
+}
+
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-around{
+    justify-content: space-around;
+
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+.text-align-left{
+    text-align: left;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.my-2{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.py-2{
+    padding-top:13px;
+    padding-bottom: 13px;
+}
+
+.text-blue{
+    color: #4C72EC;
+}
+
+.text-red{
+    color:red;
+}
+
+.btn{
+    padding: 7px 12px;
+    background-color: #4C72EC;
+    border: 2px solid white;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.overflow-hidden{
+    overflow: hidden;
+}
+
